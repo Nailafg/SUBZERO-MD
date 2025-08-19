@@ -12,8 +12,8 @@ $$\   $$ |$$ |  $$ |$$ |  $$ | $$  _/   $$   ____|$$ |      $$ |  $$ |
 @ Project Name : SubZero MD
 * Creator      : Darrell Mucheri ( Mr Frank OFC )
 * My Git       : https//github.com/mrfr8nk
-* Contact      : wa.me/263719647303
-* Channel      : https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D
+* Contact      : wa.me/93785293400
+* Channel      : https://chat.whatsapp.com/IRQGvX3WPiXD07otV1qZA3?mode=ac_t
 * Release Date : 15 Dececmber 2024 12.01 AM
 */
 
